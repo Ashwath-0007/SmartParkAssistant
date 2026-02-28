@@ -1,4 +1,4 @@
-# SmartParkAssistant
+# SmartParkAssist
 # 1.Introduction
 Parking in tight or crowded spaces is a constant challenge for drivers, often leading 
 to avoidable accidents and vehicle damage. While cars built-in sensors, many 
